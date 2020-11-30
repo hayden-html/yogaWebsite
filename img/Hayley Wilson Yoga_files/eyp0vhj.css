@@ -1,0 +1,38 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * dienstag:
+ *   - http://typekit.com/eulas/00000000000000003b9afc99
+ *   - http://typekit.com/eulas/00000000000000003b9afee7
+ * omnes-pro:
+ *   - http://typekit.com/eulas/00000000000000003b9b1e44
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2020-10-03 16:35:09 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=eyp0vhj&ht=tk&f=676.34383.7992&a=35563391&app=typekit&e=css");
+
+@font-face {
+font-family:"dienstag";
+src:url("https://use.typekit.net/af/7d298b/00000000000000003b9afc99/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/7d298b/00000000000000003b9afc99/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/7d298b/00000000000000003b9afc99/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"dienstag";
+src:url("https://use.typekit.net/af/53d4b4/00000000000000003b9afee7/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/53d4b4/00000000000000003b9afee7/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/53d4b4/00000000000000003b9afee7/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;
+}
+
+@font-face {
+font-family:"omnes-pro";
+src:url("https://use.typekit.net/af/1e9639/00000000000000003b9b1e44/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/1e9639/00000000000000003b9b1e44/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/1e9639/00000000000000003b9b1e44/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+.tk-dienstag { font-family: "dienstag",sans-serif; }
+.tk-omnes-pro { font-family: "omnes-pro",sans-serif; }
